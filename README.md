@@ -35,6 +35,8 @@ Antes de começar, você precisará ter instalado:
 ```bash
 git clone [https://github.com/mora3s-victor/servidor-api.git]
 cd servidor-api
+# Compile o projeto
+mvn clean package
 ```
 
 ### 2. Execute com Docker Compose
